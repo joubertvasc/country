@@ -1,9 +1,4 @@
---------------------------------------------------------------
--- List with 249 countries with name and international code --
--- Lista com 249 países com nome e código internacional     --
--- Lista con 249 países con nombre y código internacional   --
--- Liste des 249 pays et nom de code international          --
---------------------------------------------------------------
+-- List with 249 countries with name and international code in english, portuguese, spanish and french
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
