@@ -1,3 +1,10 @@
+--------------------------------------------------------------
+-- List with 249 countries with name and international code --
+-- Lista com 249 países com nome e código internacional     --
+-- Lista con 249 países con nombre y código internacional   --
+-- Liste des 249 pays et nom de code international          --
+--------------------------------------------------------------
+
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
